@@ -1,0 +1,9 @@
+# Ignore object files and executables
+*.o
+*.exe
+*.out
+*.obj
+
+# Ignore editor temporary files
+*~
+*.swp
